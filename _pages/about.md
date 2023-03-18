@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year undergraduate student from [School of Microelectronics](http://sme.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/) and a research assistant at [HKUST(GZ)](https://hkust-gz.edu.cn/). My research interest includes Electronic Design Automation(EDA), Model Checking, Machine Learning, and Formal Verification.
-
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I'm a final year undergraduate student from School of Microelectronics, Tianjin University and a research assistant at HKUST(GZ). My research interest includes Electronic Design Automation(EDA), Model Checking, Machine Learning, and Formal Verification.
 
 
 A data-driven personal website
