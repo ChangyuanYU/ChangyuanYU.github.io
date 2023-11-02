@@ -16,4 +16,4 @@ Merit Student of Tianjin University
 
 Challenge Cup(Academic Paper) Second Class Award
 
-[Email](cyu418@connect.hkust-gz.edu.cn)
+[Email](mailto:cyu418@connect.hkust-gz.edu.cn)
