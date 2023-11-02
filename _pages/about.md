@@ -12,8 +12,7 @@ I'm currently a Ph.D. student at the [Microelectronics Thurst](https://www.hkust
 
 # Awards
 
-Merit Student of Tianjin University
-
+Merit Student of Tianjin University /
 Challenge Cup(Academic Paper) Second Class Award
 
 [Email](mailto:cyu418@connect.hkust-gz.edu.cn)
